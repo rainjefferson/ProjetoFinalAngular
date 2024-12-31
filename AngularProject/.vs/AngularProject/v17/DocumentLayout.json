@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeffe\\Desktop\\Curso Angular 13 - 7 projetos\\Angular.VS\\AngularProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B618C5DD-47F5-48AC-957E-5D8B63E8BF9D}|Projeto-Final\\Projeto-Final.esproj|c:\\users\\jeffe\\desktop\\curso angular 13 - 7 projetos\\angular.vs\\angularproject\\projeto-final\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B618C5DD-47F5-48AC-957E-5D8B63E8BF9D}|Projeto-Final\\Projeto-Final.esproj|solutionrelative:projeto-final\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B618C5DD-47F5-48AC-957E-5D8B63E8BF9D}|Projeto-Final\\Projeto-Final.esproj|c:\\users\\jeffe\\desktop\\curso angular 13 - 7 projetos\\angular.vs\\angularproject\\projeto-final\\src\\app\\jogo-da-velha\\jogo-da-velha-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B618C5DD-47F5-48AC-957E-5D8B63E8BF9D}|Projeto-Final\\Projeto-Final.esproj|solutionrelative:projeto-final\\src\\app\\jogo-da-velha\\jogo-da-velha-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B618C5DD-47F5-48AC-957E-5D8B63E8BF9D}|Projeto-Final\\Projeto-Final.esproj|c:\\users\\jeffe\\desktop\\curso angular 13 - 7 projetos\\angular.vs\\angularproject\\projeto-final\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B618C5DD-47F5-48AC-957E-5D8B63E8BF9D}|Projeto-Final\\Projeto-Final.esproj|solutionrelative:projeto-final\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B618C5DD-47F5-48AC-957E-5D8B63E8BF9D}|Projeto-Final\\Projeto-Final.esproj|c:\\users\\jeffe\\desktop\\curso angular 13 - 7 projetos\\angular.vs\\angularproject\\projeto-final\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B618C5DD-47F5-48AC-957E-5D8B63E8BF9D}|Projeto-Final\\Projeto-Final.esproj|solutionrelative:projeto-final\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B618C5DD-47F5-48AC-957E-5D8B63E8BF9D}|Projeto-Final\\Projeto-Final.esproj|c:\\users\\jeffe\\desktop\\curso angular 13 - 7 projetos\\angular.vs\\angularproject\\projeto-final\\src\\app\\dashboard\\dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B618C5DD-47F5-48AC-957E-5D8B63E8BF9D}|Projeto-Final\\Projeto-Final.esproj|solutionrelative:projeto-final\\src\\app\\dashboard\\dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B618C5DD-47F5-48AC-957E-5D8B63E8BF9D}|Projeto-Final\\Projeto-Final.esproj|c:\\users\\jeffe\\desktop\\curso angular 13 - 7 projetos\\angular.vs\\angularproject\\projeto-final\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B618C5DD-47F5-48AC-957E-5D8B63E8BF9D}|Projeto-Final\\Projeto-Final.esproj|solutionrelative:projeto-final\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jogo-da-velha-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\jeffe\\Desktop\\Curso Angular 13 - 7 projetos\\Angular.VS\\AngularProject\\Projeto-Final\\src\\app\\jogo-da-velha\\jogo-da-velha-routing.module.ts",
+              "RelativeDocumentMoniker": "Projeto-Final\\src\\app\\jogo-da-velha\\jogo-da-velha-routing.module.ts",
+              "ToolTip": "C:\\Users\\jeffe\\Desktop\\Curso Angular 13 - 7 projetos\\Angular.VS\\AngularProject\\Projeto-Final\\src\\app\\jogo-da-velha\\jogo-da-velha-routing.module.ts",
+              "RelativeToolTip": "Projeto-Final\\src\\app\\jogo-da-velha\\jogo-da-velha-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-31T15:40:33.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\jeffe\\Desktop\\Curso Angular 13 - 7 projetos\\Angular.VS\\AngularProject\\Projeto-Final\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "Projeto-Final\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\jeffe\\Desktop\\Curso Angular 13 - 7 projetos\\Angular.VS\\AngularProject\\Projeto-Final\\src\\app\\app.component.html",
+              "RelativeToolTip": "Projeto-Final\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-30T21:02:09.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\jeffe\\Desktop\\Curso Angular 13 - 7 projetos\\Angular.VS\\AngularProject\\Projeto-Final\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "Projeto-Final\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\jeffe\\Desktop\\Curso Angular 13 - 7 projetos\\Angular.VS\\AngularProject\\Projeto-Final\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "Projeto-Final\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-30T20:56:46.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dashboard.component.ts",
+              "DocumentMoniker": "C:\\Users\\jeffe\\Desktop\\Curso Angular 13 - 7 projetos\\Angular.VS\\AngularProject\\Projeto-Final\\src\\app\\dashboard\\dashboard.component.ts",
+              "RelativeDocumentMoniker": "Projeto-Final\\src\\app\\dashboard\\dashboard.component.ts",
+              "ToolTip": "C:\\Users\\jeffe\\Desktop\\Curso Angular 13 - 7 projetos\\Angular.VS\\AngularProject\\Projeto-Final\\src\\app\\dashboard\\dashboard.component.ts",
+              "RelativeToolTip": "Projeto-Final\\src\\app\\dashboard\\dashboard.component.ts",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-31T15:18:47.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\jeffe\\Desktop\\Curso Angular 13 - 7 projetos\\Angular.VS\\AngularProject\\Projeto-Final\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "Projeto-Final\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\jeffe\\Desktop\\Curso Angular 13 - 7 projetos\\Angular.VS\\AngularProject\\Projeto-Final\\src\\app\\app.module.ts",
+              "RelativeToolTip": "Projeto-Final\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-30T21:00:05.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\jeffe\\Desktop\\Curso Angular 13 - 7 projetos\\Angular.VS\\AngularProject\\Projeto-Final\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "Projeto-Final\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\jeffe\\Desktop\\Curso Angular 13 - 7 projetos\\Angular.VS\\AngularProject\\Projeto-Final\\src\\app\\app.component.ts",
+              "RelativeToolTip": "Projeto-Final\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-31T13:43:41.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
